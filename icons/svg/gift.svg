@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" fill="currentColor">
+<mask id="m_gift" maskUnits="userSpaceOnUse" x="-8" y="-8" width="144" height="144"><rect x="-8" y="-8" width="144" height="144" fill="#fff"></rect><path fill="#000" d="M81.4 28.0L77.2 125.6L47.4 125.0L49.5 27.5ZM57.0 1.8L76.6 36.5L53.5 48.6L32.8 15.4ZM99.7 15.9L75.5 50.3L54.8 35.5L75.0 1.7Z"></path></mask>
+<path mask="url(#m_gift)" d="M12.2 46.5L115.5 50.4L114.6 115.8L11.8 114.3ZM23.8 102.6L102.9 103.7L103.4 61.9L24.1 58.9ZM12.2 46.5L115.5 50.4L116.2 70.0L12.5 66.0Z"></path>
+<path d="M73.2 35.9L72.5 116.0L55.2 116.9L57.8 35.5ZM54.1 11.1L68.9 39.4L59.5 45.4L42.8 17.6ZM87.7 19.2L70.2 45.4L59.9 40.2L77.1 12.0Z"></path>
+</svg>

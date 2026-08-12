@@ -1,0 +1,56 @@
+name: Release SVG pack
+
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out the tagged version
+        uses: actions/checkout@v4
+
+      - name: Build the release archive
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          package_dir="$RUNNER_TEMP/iconic-game-package"
+          archive="iconic-game-svg-${GITHUB_REF_NAME}.zip"
+
+          test -f LICENSE
+          test -d icons/svg
+          test "$(find icons/svg -maxdepth 1 -type f -name '*.svg' | wc -l)" -gt 0
+
+          mkdir -p "$package_dir/svg"
+          cp LICENSE "$package_dir/LICENSE"
+          cp icons/svg/*.svg "$package_dir/svg/"
+
+          (
+            cd "$package_dir"
+            zip -q -r "$GITHUB_WORKSPACE/$archive" LICENSE svg
+          )
+
+          echo "ARCHIVE=$archive" >> "$GITHUB_ENV"
+
+      - name: Create the GitHub release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          if gh release view "$GITHUB_REF_NAME" >/dev/null 2>&1; then
+            gh release upload "$GITHUB_REF_NAME" "$ARCHIVE" --clobber
+          else
+            gh release create "$GITHUB_REF_NAME" "$ARCHIVE" \
+              --verify-tag \
+              --generate-notes \
+              --title "Iconic Game $GITHUB_REF_NAME"
+          fi

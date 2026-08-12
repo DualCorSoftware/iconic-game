@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" fill="currentColor">
+<mask id="m_joystick" maskUnits="userSpaceOnUse" x="-8" y="-8" width="144" height="144"><rect x="-8" y="-8" width="144" height="144" fill="#fff"></rect><path fill="#000" d="M6.3 69.0L120.8 66.8L123.2 122.5L9.1 127.7Z"></path></mask>
+<path mask="url(#m_joystick)" d="M57.4 89.4L55.2 32.5L67.6 32.5L70.6 87.6ZM45.4 13.1L80.3 11.0L78.8 35.3L48.6 36.4Z"></path>
+<path d="M15.4 76.6L112.6 73.3L107.0 114.7L24.2 117.0ZM35.4 105.8L90.1 102.2L95.5 88.3L31.3 88.9Z"></path>
+</svg>

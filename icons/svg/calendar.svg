@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" fill="currentColor">
+<mask id="m_calendar" maskUnits="userSpaceOnUse" x="-8" y="-8" width="144" height="144"><rect x="-8" y="-8" width="144" height="144" fill="#fff"></rect><path fill="#000" d="M51.0 8.7L50.8 48.3L26.5 47.0L28.2 7.3ZM102.7 9.2L100.5 49.4L80.6 49.4L80.5 10.4Z"></path></mask>
+<path mask="url(#m_calendar)" d="M14.2 31.6L116.1 36.6L115.3 116.7L10.2 112.0ZM22.6 99.7L102.7 104.0L103.9 60.5L25.1 55.4ZM33.9 63.7L48.5 64.6L47.9 78.4L32.7 76.5ZM56.6 65.4L69.5 66.1L69.8 77.1L56.7 77.0ZM78.3 67.5L93.1 66.6L91.6 79.0L76.5 79.2ZM33.4 82.8L46.9 83.1L47.2 95.9L32.3 95.0ZM54.3 84.0L70.0 83.7L69.6 97.5L55.2 95.8Z"></path>
+<path d="M45.6 13.1L43.7 40.0L33.8 42.2L34.3 13.3ZM96.5 16.2L96.4 43.3L86.5 43.5L86.2 15.4Z"></path>
+</svg>

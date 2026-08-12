@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" fill="currentColor">
+<mask id="m_sliders" maskUnits="userSpaceOnUse" x="-8" y="-8" width="144" height="144"><rect x="-8" y="-8" width="144" height="144" fill="#fff"></rect><path fill="#000" d="M72.7 15.1L103.9 13.1L104.7 53.6L73.8 53.8ZM28.7 46.8L60.2 45.4L60.3 86.5L29.3 87.2ZM57.4 76.4L90.3 76.0L90.9 115.3L59.6 116.9Z"></path></mask>
+<path mask="url(#m_sliders)" d="M11.0 31.2L115.0 27.8L115.2 37.6L11.5 41.9ZM12.1 63.0L115.6 59.2L115.3 69.8L11.0 71.4ZM13.0 94.1L116.4 89.7L117.0 99.1L11.5 103.9Z"></path>
+<path d="M80.0 22.3L96.6 19.8L99.0 45.8L80.6 45.8ZM36.7 53.6L53.2 54.4L53.5 77.5L37.9 78.0ZM65.2 83.2L83.7 83.9L84.3 107.7L68.1 108.2Z"></path>
+</svg>

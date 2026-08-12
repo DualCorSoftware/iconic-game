@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" fill="currentColor">
+<mask id="m_checkbox" maskUnits="userSpaceOnUse" x="-8" y="-8" width="144" height="144"><rect x="-8" y="-8" width="144" height="144" fill="#fff"></rect><path fill="#000" d="M51.3 48.0L58.7 61.9L102.4 0.6L123.8 16.3L58.1 107.5L30.4 63.4Z"></path></mask>
+<path mask="url(#m_checkbox)" d="M14.4 26.3L98.7 21.7L102.0 106.5L19.2 111.0ZM29.5 99.4L90.6 96.1L88.2 33.3L26.0 36.6Z"></path>
+<path d="M49.5 58.3L58.0 73.1L104.4 9.8L115.9 16.6L59.6 96.3L36.9 65.2Z"></path>
+</svg>
