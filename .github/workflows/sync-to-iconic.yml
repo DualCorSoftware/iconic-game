@@ -1,0 +1,52 @@
+name: Sync Icons to Iconic Desktop App
+
+on:
+  push:
+    branches:
+      - "main"
+      - "master"
+    paths:
+      - "icons/svg/**"
+    tags:
+      - "v*"
+  workflow_dispatch:
+
+jobs:
+  sync-icons:
+    name: Sync SVG icons into Iconic repository
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout iconic-game
+        uses: actions/checkout@v4
+        with:
+          path: iconic-game
+
+      - name: Checkout Iconic
+        uses: actions/checkout@v4
+        with:
+          repository: DualCorSoftware/Iconic
+          token: ${{ secrets.DOCS_SYNC_PAT }}
+          path: Iconic
+
+      - name: Copy SVGs to Iconic bundle directory
+        shell: bash
+        run: |
+          mkdir -p Iconic/src/IconAssets/IconicGame/svg
+          cp iconic-game/icons/svg/*.svg Iconic/src/IconAssets/IconicGame/svg/
+          echo "Copied SVGs into Iconic/src/IconAssets/IconicGame/svg/"
+
+      - name: Commit and push changes to Iconic
+        shell: bash
+        run: |
+          cd Iconic
+          if [ -n "$(git status --porcelain src/IconAssets/IconicGame)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add src/IconAssets/IconicGame
+            git commit -m "chore(icons): auto-sync SVG icons from iconic-game (${GITHUB_SHA::7})"
+            git push
+            echo "Successfully pushed icon updates to Iconic repository."
+          else
+            echo "No icon changes detected in Iconic repository."
+          fi
