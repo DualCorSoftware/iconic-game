@@ -11,6 +11,7 @@
 
 <!-- ICON-GALLERY:START -->
 <p align="center">
+<a href="icons/svg/axe.svg"><img src="icons/svg/axe.svg" width="36" height="36" alt="axe" title="axe"></a>
 <a href="icons/svg/back.svg"><img src="icons/svg/back.svg" width="36" height="36" alt="back" title="back"></a>
 <a href="icons/svg/battery.svg"><img src="icons/svg/battery.svg" width="36" height="36" alt="battery" title="battery"></a>
 <a href="icons/svg/battery-full.svg"><img src="icons/svg/battery-full.svg" width="36" height="36" alt="battery-full" title="battery-full"></a>
@@ -18,6 +19,8 @@
 <a href="icons/svg/battery-low.svg"><img src="icons/svg/battery-low.svg" width="36" height="36" alt="battery-low" title="battery-low"></a>
 <a href="icons/svg/bell.svg"><img src="icons/svg/bell.svg" width="36" height="36" alt="bell" title="bell"></a>
 <a href="icons/svg/bomb.svg"><img src="icons/svg/bomb.svg" width="36" height="36" alt="bomb" title="bomb"></a>
+<a href="icons/svg/bow.svg"><img src="icons/svg/bow.svg" width="36" height="36" alt="bow" title="bow"></a>
+<a href="icons/svg/bullet.svg"><img src="icons/svg/bullet.svg" width="36" height="36" alt="bullet" title="bullet"></a>
 <a href="icons/svg/calendar.svg"><img src="icons/svg/calendar.svg" width="36" height="36" alt="calendar" title="calendar"></a>
 <a href="icons/svg/camera.svg"><img src="icons/svg/camera.svg" width="36" height="36" alt="camera" title="camera"></a>
 <a href="icons/svg/camera-off.svg"><img src="icons/svg/camera-off.svg" width="36" height="36" alt="camera-off" title="camera-off"></a>
@@ -28,11 +31,11 @@
 <a href="icons/svg/checkbox.svg"><img src="icons/svg/checkbox.svg" width="36" height="36" alt="checkbox" title="checkbox"></a>
 <a href="icons/svg/chevron-down.svg"><img src="icons/svg/chevron-down.svg" width="36" height="36" alt="chevron-down" title="chevron-down"></a>
 <a href="icons/svg/chevron-left.svg"><img src="icons/svg/chevron-left.svg" width="36" height="36" alt="chevron-left" title="chevron-left"></a>
+</p>
+<p align="center">
 <a href="icons/svg/chevron-right.svg"><img src="icons/svg/chevron-right.svg" width="36" height="36" alt="chevron-right" title="chevron-right"></a>
 <a href="icons/svg/chevron-up.svg"><img src="icons/svg/chevron-up.svg" width="36" height="36" alt="chevron-up" title="chevron-up"></a>
 <a href="icons/svg/clock.svg"><img src="icons/svg/clock.svg" width="36" height="36" alt="clock" title="clock"></a>
-</p>
-<p align="center">
 <a href="icons/svg/close.svg"><img src="icons/svg/close.svg" width="36" height="36" alt="close" title="close"></a>
 <a href="icons/svg/coin.svg"><img src="icons/svg/coin.svg" width="36" height="36" alt="coin" title="coin"></a>
 <a href="icons/svg/dollar.svg"><img src="icons/svg/dollar.svg" width="36" height="36" alt="dollar" title="dollar"></a>
@@ -42,19 +45,23 @@
 <a href="icons/svg/envelope.svg"><img src="icons/svg/envelope.svg" width="36" height="36" alt="envelope" title="envelope"></a>
 <a href="icons/svg/error.svg"><img src="icons/svg/error.svg" width="36" height="36" alt="error" title="error"></a>
 <a href="icons/svg/export.svg"><img src="icons/svg/export.svg" width="36" height="36" alt="export" title="export"></a>
+<a href="icons/svg/eye.svg"><img src="icons/svg/eye.svg" width="36" height="36" alt="eye" title="eye"></a>
+<a href="icons/svg/eye-off.svg"><img src="icons/svg/eye-off.svg" width="36" height="36" alt="eye-off" title="eye-off"></a>
 <a href="icons/svg/fast-forward.svg"><img src="icons/svg/fast-forward.svg" width="36" height="36" alt="fast-forward" title="fast-forward"></a>
 <a href="icons/svg/file.svg"><img src="icons/svg/file.svg" width="36" height="36" alt="file" title="file"></a>
+<a href="icons/svg/fire.svg"><img src="icons/svg/fire.svg" width="36" height="36" alt="fire" title="fire"></a>
 <a href="icons/svg/flag.svg"><img src="icons/svg/flag.svg" width="36" height="36" alt="flag" title="flag"></a>
 <a href="icons/svg/folder.svg"><img src="icons/svg/folder.svg" width="36" height="36" alt="folder" title="folder"></a>
 <a href="icons/svg/fullscreen.svg"><img src="icons/svg/fullscreen.svg" width="36" height="36" alt="fullscreen" title="fullscreen"></a>
+</p>
+<p align="center">
 <a href="icons/svg/fullscreen-exit.svg"><img src="icons/svg/fullscreen-exit.svg" width="36" height="36" alt="fullscreen-exit" title="fullscreen-exit"></a>
 <a href="icons/svg/gamepad.svg"><img src="icons/svg/gamepad.svg" width="36" height="36" alt="gamepad" title="gamepad"></a>
 <a href="icons/svg/gift.svg"><img src="icons/svg/gift.svg" width="36" height="36" alt="gift" title="gift"></a>
+<a href="icons/svg/globe.svg"><img src="icons/svg/globe.svg" width="36" height="36" alt="globe" title="globe"></a>
 <a href="icons/svg/grid.svg"><img src="icons/svg/grid.svg" width="36" height="36" alt="grid" title="grid"></a>
 <a href="icons/svg/health-cross.svg"><img src="icons/svg/health-cross.svg" width="36" height="36" alt="health-cross" title="health-cross"></a>
 <a href="icons/svg/heart.svg"><img src="icons/svg/heart.svg" width="36" height="36" alt="heart" title="heart"></a>
-</p>
-<p align="center">
 <a href="icons/svg/help.svg"><img src="icons/svg/help.svg" width="36" height="36" alt="help" title="help"></a>
 <a href="icons/svg/import.svg"><img src="icons/svg/import.svg" width="36" height="36" alt="import" title="import"></a>
 <a href="icons/svg/info.svg"><img src="icons/svg/info.svg" width="36" height="36" alt="info" title="info"></a>
@@ -68,6 +75,8 @@
 <a href="icons/svg/menu.svg"><img src="icons/svg/menu.svg" width="36" height="36" alt="menu" title="menu"></a>
 <a href="icons/svg/microphone.svg"><img src="icons/svg/microphone.svg" width="36" height="36" alt="microphone" title="microphone"></a>
 <a href="icons/svg/microphone-off.svg"><img src="icons/svg/microphone-off.svg" width="36" height="36" alt="microphone-off" title="microphone-off"></a>
+</p>
+<p align="center">
 <a href="icons/svg/minus.svg"><img src="icons/svg/minus.svg" width="36" height="36" alt="minus" title="minus"></a>
 <a href="icons/svg/missile.svg"><img src="icons/svg/missile.svg" width="36" height="36" alt="missile" title="missile"></a>
 <a href="icons/svg/missiles.svg"><img src="icons/svg/missiles.svg" width="36" height="36" alt="missiles" title="missiles"></a>
@@ -75,9 +84,8 @@
 <a href="icons/svg/more-vertical.svg"><img src="icons/svg/more-vertical.svg" width="36" height="36" alt="more-vertical" title="more-vertical"></a>
 <a href="icons/svg/mouse.svg"><img src="icons/svg/mouse.svg" width="36" height="36" alt="mouse" title="mouse"></a>
 <a href="icons/svg/next.svg"><img src="icons/svg/next.svg" width="36" height="36" alt="next" title="next"></a>
-</p>
-<p align="center">
 <a href="icons/svg/pause.svg"><img src="icons/svg/pause.svg" width="36" height="36" alt="pause" title="pause"></a>
+<a href="icons/svg/pistol.svg"><img src="icons/svg/pistol.svg" width="36" height="36" alt="pistol" title="pistol"></a>
 <a href="icons/svg/play.svg"><img src="icons/svg/play.svg" width="36" height="36" alt="play" title="play"></a>
 <a href="icons/svg/plus.svg"><img src="icons/svg/plus.svg" width="36" height="36" alt="plus" title="plus"></a>
 <a href="icons/svg/potion.svg"><img src="icons/svg/potion.svg" width="36" height="36" alt="potion" title="potion"></a>
@@ -88,6 +96,10 @@
 <a href="icons/svg/repeat.svg"><img src="icons/svg/repeat.svg" width="36" height="36" alt="repeat" title="repeat"></a>
 <a href="icons/svg/reticle.svg"><img src="icons/svg/reticle.svg" width="36" height="36" alt="reticle" title="reticle"></a>
 <a href="icons/svg/rewind.svg"><img src="icons/svg/rewind.svg" width="36" height="36" alt="rewind" title="rewind"></a>
+<a href="icons/svg/rifle.svg"><img src="icons/svg/rifle.svg" width="36" height="36" alt="rifle" title="rifle"></a>
+</p>
+<p align="center">
+<a href="icons/svg/save.svg"><img src="icons/svg/save.svg" width="36" height="36" alt="save" title="save"></a>
 <a href="icons/svg/search.svg"><img src="icons/svg/search.svg" width="36" height="36" alt="search" title="search"></a>
 <a href="icons/svg/send.svg"><img src="icons/svg/send.svg" width="36" height="36" alt="send" title="send"></a>
 <a href="icons/svg/settings.svg"><img src="icons/svg/settings.svg" width="36" height="36" alt="settings" title="settings"></a>
@@ -95,10 +107,10 @@
 <a href="icons/svg/shield-broken.svg"><img src="icons/svg/shield-broken.svg" width="36" height="36" alt="shield-broken" title="shield-broken"></a>
 <a href="icons/svg/shuffle.svg"><img src="icons/svg/shuffle.svg" width="36" height="36" alt="shuffle" title="shuffle"></a>
 <a href="icons/svg/sliders.svg"><img src="icons/svg/sliders.svg" width="36" height="36" alt="sliders" title="sliders"></a>
+<a href="icons/svg/smiley.svg"><img src="icons/svg/smiley.svg" width="36" height="36" alt="smiley" title="smiley"></a>
+<a href="icons/svg/snowflake.svg"><img src="icons/svg/snowflake.svg" width="36" height="36" alt="snowflake" title="snowflake"></a>
 <a href="icons/svg/speaker.svg"><img src="icons/svg/speaker.svg" width="36" height="36" alt="speaker" title="speaker"></a>
 <a href="icons/svg/speaker-off.svg"><img src="icons/svg/speaker-off.svg" width="36" height="36" alt="speaker-off" title="speaker-off"></a>
-</p>
-<p align="center">
 <a href="icons/svg/star.svg"><img src="icons/svg/star.svg" width="36" height="36" alt="star" title="star"></a>
 <a href="icons/svg/stop.svg"><img src="icons/svg/stop.svg" width="36" height="36" alt="stop" title="stop"></a>
 <a href="icons/svg/sword.svg"><img src="icons/svg/sword.svg" width="36" height="36" alt="sword" title="sword"></a>
@@ -107,6 +119,8 @@
 <a href="icons/svg/thermometer-half.svg"><img src="icons/svg/thermometer-half.svg" width="36" height="36" alt="thermometer-half" title="thermometer-half"></a>
 <a href="icons/svg/thermometer-low.svg"><img src="icons/svg/thermometer-low.svg" width="36" height="36" alt="thermometer-low" title="thermometer-low"></a>
 <a href="icons/svg/timer.svg"><img src="icons/svg/timer.svg" width="36" height="36" alt="timer" title="timer"></a>
+</p>
+<p align="center">
 <a href="icons/svg/toggle-off.svg"><img src="icons/svg/toggle-off.svg" width="36" height="36" alt="toggle-off" title="toggle-off"></a>
 <a href="icons/svg/toggle-on.svg"><img src="icons/svg/toggle-on.svg" width="36" height="36" alt="toggle-on" title="toggle-on"></a>
 <a href="icons/svg/touch.svg"><img src="icons/svg/touch.svg" width="36" height="36" alt="touch" title="touch"></a>
