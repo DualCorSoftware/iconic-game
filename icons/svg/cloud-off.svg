@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" fill="currentColor">
+<mask id="m_cloudoff" maskUnits="userSpaceOnUse" x="-8" y="-8" width="144" height="144"><rect x="-8" y="-8" width="144" height="144" fill="#fff"/><path fill="#000" d="M44.8 1.5L104.2 96.8L81.9 112.4L22.7 16.8Z"/></mask>
+<path mask="url(#m_cloudoff)" d="M27.2 86.2L14.6 76.0L14.1 58.4L23.2 43.1L37.0 39.7L43.4 23.2L61.0 17.2L78.2 22.3L86.6 36.6L104.0 40.5L113.9 55.8L112.4 75.8L98.5 88.0ZM93.3 75.0L100.6 70.3L103.6 60.6L96.8 51.0L77.5 47.6L73.9 32.0L62.3 29.5L52.8 34.4L45.9 49.3L31.5 51.7L24.8 56.7L25.5 68.2L31.4 74.1Z"/>
+<path d="M43.1 11.0L96.4 96.5L85.1 102.4L32.3 18.6Z"/>
+</svg>

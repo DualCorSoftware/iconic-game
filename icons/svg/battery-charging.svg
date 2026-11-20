@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" fill="currentColor">
+<mask id="m_batterycharging" maskUnits="userSpaceOnUse" x="-8" y="-8" width="144" height="144"><rect x="-8" y="-8" width="144" height="144" fill="#fff"/><path fill="#000" d="M58.5 6.4L72.2 8.1L73.9 48.4L91.1 49.2L90.1 63.5L54.7 120.4L41.3 121.3L39.1 79.7L23.5 78.1L22.8 64.5Z"/></mask>
+<path mask="url(#m_batterycharging)" d="M11.0 39.0L100.1 33.5L103.5 92.2L13.3 94.5ZM24.8 82.3L90.8 80.6L88.9 46.1L23.5 50.2ZM96.9 52.9L117.0 50.6L117.0 74.0L97.6 77.3Z"/>
+<path d="M64.2 14.9L66.1 55.3L80.3 56.3L48.1 113.7L47.1 71.8L32.7 70.7Z"/>
+</svg>
