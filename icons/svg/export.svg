@@ -1,6 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" fill="currentColor">
-
-<mask id="m_export" maskUnits="userSpaceOnUse" x="-8" y="-8" width="144" height="144"><rect x="-8" y="-8" width="144" height="144" fill="#fff"></rect><path fill="#000" d="M30.3 49.9L101.8 48.7L104.6 77.2L30.8 79.4ZM84.3 96.9L83.1 29.3L130.3 62.9Z"></path></mask>
-<path mask="url(#m_export)" d="M11.7 20.8L71.5 18.9L74.4 107.4L16.3 108.5ZM27.7 96.3L62.0 95.7L59.9 31.3L24.3 32.4Z"></path>
-<path d="M38.2 58.7L95.5 54.7L96.2 69.1L37.0 70.9ZM91.1 82.1L89.0 44.2L119.0 61.9Z"></path>
+<mask id="m_export" maskUnits="userSpaceOnUse" x="-8" y="-8" width="144" height="144"><rect x="-8" y="-8" width="144" height="144" fill="#fff"/><path fill="#000" d="M30.4 49.7L106.0 50.4L106.6 80.8L30.0 78.8ZM82.5 30.2L127.8 65.9L80.9 100.0Z"/></mask>
+<path mask="url(#m_export)" d="M13.4 19.4L71.2 21.6L67.8 108.6L11.0 106.6ZM24.6 93.7L56.6 96.1L59.2 34.2L26.8 33.1Z"/>
+<path d="M36.3 57.2L99.9 58.4L98.7 72.9L36.0 71.1ZM89.1 40.2L117.0 66.3L87.0 89.2Z"/>
 </svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" fill="currentColor">
+<mask id="m_clouddownload" maskUnits="userSpaceOnUse" x="-8" y="-8" width="144" height="144"><rect x="-8" y="-8" width="144" height="144" fill="#fff"/><path fill="#000" d="M78.2 43.2L75.0 95.4L50.0 95.6L50.8 43.7Z"/></mask>
+<path mask="url(#m_clouddownload)" d="M27.2 86.2L14.6 76.0L14.1 58.4L23.2 43.1L37.0 39.7L43.4 23.2L61.0 17.2L78.2 22.3L86.6 36.6L104.0 40.5L113.9 55.8L112.4 75.8L98.5 88.0ZM93.3 75.0L100.6 70.3L103.6 60.6L96.8 51.0L77.5 47.6L73.9 32.0L62.3 29.5L52.8 34.4L45.9 49.3L31.5 51.7L24.8 56.7L25.5 68.2L31.4 74.1Z"/>
+<path d="M71.0 46.5L68.4 98.7L56.7 97.7L58.1 46.9ZM84.1 93.4L61.4 117.0L42.0 92.7Z"/>
+</svg>

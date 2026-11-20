@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" fill="currentColor">
+<mask id="m_captionsoff" maskUnits="userSpaceOnUse" x="-8" y="-8" width="144" height="144"><rect x="-8" y="-8" width="144" height="144" fill="#fff"/><path fill="#000" d="M44.2 2.0L107.6 112.1L85.3 124.1L21.0 17.5Z"/></mask>
+<path mask="url(#m_captionsoff)" d="M11.0 31.8L114.6 28.1L117.0 97.7L14.4 99.9ZM25.2 88.3L105.2 86.6L103.6 39.9L22.9 42.7Z"/>
+<path d="M41.6 12.3L97.9 110.6L86.7 116.4L28.9 17.9Z"/>
+</svg>

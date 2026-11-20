@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" fill="currentColor">
+<mask id="m_crop" maskUnits="userSpaceOnUse" x="-8" y="-8" width="144" height="144"><rect x="-8" y="-8" width="144" height="144" fill="#fff"/><path fill="#000" d="M25.6 23.4L50.3 25.2L50.6 49.8L25.4 50.3ZM77.6 78.6L102.2 78.0L101.3 104.4L76.5 104.1Z"/></mask>
+<path mask="url(#m_crop)" d="M11.9 29.3L96.7 31.5L94.4 117.0L82.8 116.4L84.7 44.6L12.5 42.9Z"/>
+<path d="M45.1 11.1L42.8 84.6L116.1 85.7L113.7 97.3L29.6 94.9L33.2 11.0Z"/>
+</svg>
